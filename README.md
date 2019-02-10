@@ -1,3 +1,3 @@
 # guess-the-word
-"guess the word" game
+mimo - "guess the word" game project
 #python
